@@ -73,8 +73,9 @@ These controls allow real‑time exploration of diffraction behavior.
 
 ------------------------------------------------------------------------
 
-# Installation
+# Installation and Access
 
+The app can be used on the website -https://diffraction-simulator.streamlit.app/
 Clone the repository:
 
 ``` bash
