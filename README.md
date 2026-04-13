@@ -78,7 +78,7 @@ These controls allow real‑time exploration of diffraction behavior.
 Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/diffraction-simulator.git
+git clone https://github.com/ayushchaurasia18/diffraction-simulator.git
 cd diffraction-simulator
 ```
 
